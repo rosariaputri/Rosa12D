@@ -1,0 +1,11 @@
+.kotak{
+    width: 80%;
+    height: 500px;
+    background-color: green;
+}
+.anak-kotak{
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    background-color: aqua;
+}

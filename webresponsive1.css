@@ -1,0 +1,23 @@
+#gambar{
+    width: 100px;
+    height: 100px;
+    background-color:purple;
+}
+#menu{
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+}
+@media screen and (max-width: 600px){
+    body{
+        background-color: black;
+    }
+    #menu{
+        background-color: brown;
+    }
+    #gambar{
+        background-color: green;
+        width: 100%;
+    }    
+}
+
